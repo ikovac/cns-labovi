@@ -1,1 +1,1 @@
-Svaka vježba nalazi se u vlastitom branchu.
+Each lab is in it's own branch
